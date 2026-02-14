@@ -1,7 +1,7 @@
 # YassenTech
 
 Hi I’m Yassen  
-An IT student focused on becoming a Full Stack Developer.
+An IT student focused on becoming a Back End Developer
 
 ## Skills
 - SQL Server (SSMS)
