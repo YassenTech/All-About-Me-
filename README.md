@@ -1,12 +1,13 @@
 # YassenTech
 
 Hi I’m Yassen  
-An IT student focused on becoming a Back End Developer
+A 14 Year-Old IT student focused on becoming a Back End Developer
 
 ## Skills
 - SQL Server (SSMS)
 - Microsoft Word
 - Microsoft PowerPoint
+- Microsoft Excel
 - Basic understanding of IT fundamentals
 - Has Been Self-Studying English Sence The Age Of 4
 
